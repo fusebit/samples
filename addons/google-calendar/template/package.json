@@ -4,6 +4,6 @@
   },
   "dependencies": {
     "superagent": "^5.2.2",
-    "googleapis": "39"
+    "googleapis": ">=39.1.0"
   }
 }
